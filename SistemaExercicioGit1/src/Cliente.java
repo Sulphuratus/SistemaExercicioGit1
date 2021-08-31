@@ -1,3 +1,4 @@
 public class Cliente {
-    String nome;    
+    String nome;
+    Integer id;   
 }
